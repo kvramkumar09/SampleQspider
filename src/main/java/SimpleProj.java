@@ -6,6 +6,7 @@ public class SimpleProj {
 	public void sample() {
 		System.out.println("Git practice");
 		System.out.println("hello");
+		System.out.println("HI");
 		
 	}
 }
